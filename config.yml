@@ -1,0 +1,20 @@
+theme: Blogpaper
+title: Resilience Stories
+author:
+  name: Tomoyuki Kobayashi
+baseURL: "https://github.com/Tobayash/resiliencestories/" # Hostname (and path) to the root, e.g. https://bep.is/
+copyright: "Copyright @災害こころの医学講座 2022" # Optional, will be displayed on site's footer, if this line is removed an default copyright will be generated
+languageCode: "en" # The language code of your site, by default "en"
+menu:
+  main:
+  - name: Movie
+    title: about movie
+    url: /movie
+    weight: -110
+params:
+  description: # The description of your site (used on a <meta> tag)
+  subtitleLength: 25 # The number of words on the subtitle of a page
+banner:
+  src: banner.jpg # Optional, the filename of the banner, by default <page-filename>.md or banner.jpg
+publishdir: "docs"
+canonifyurls: true
