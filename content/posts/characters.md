@@ -7,7 +7,7 @@ description: Guide to emoji usage in Hugo
 tags:
   - resilience
 banner:
-  caption: Roberto Nickson
+  caption: 
   href: https://unsplash.com/photos/7BjmDICVloE
 ---
 
