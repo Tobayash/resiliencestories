@@ -100,6 +100,28 @@
 
 
 /*ページスタイルの設定*/
+ul{
+  margin:0;
+  padding: 0;
+  list-style: none;
+}
+
+.wrapper{
+  position: relative;
+}
+
+.container{
+  background:#555;
+}
+
+.container p{
+  padding: 300px 0; 
+  text-align: center;
+  color: #fff;
+}
+
+
+
 .div_design009 {
   display: block;
   text-align: center;
