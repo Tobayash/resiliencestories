@@ -60,7 +60,22 @@
 
 
 
-a { text-decoration: none; }
+article > a {
+    width:100%;
+    text-decoration: none;
+}
 
-img{ border:0; } 
+article > img{
+    border:0;
+    vertical-align:bottom;
+} 
 
+div > a {
+    width:100%;
+    text-decoration: none;
+}
+
+div > img{
+    border:0;
+    vertical-align:bottom;
+} 
