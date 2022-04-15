@@ -58,42 +58,7 @@
      height: 100%;
 }
 
-/*スクロールで画像を時間差で出す*/
-/*写真と文章のセット　装飾のためのCSS*/
 
-.area{
-  position:relative;
-  margin:0 auto 20% auto;
-  padding: 0 30px;
-  max-width:1000px;
-  width:100%;
-}
-
-.area figure{
-  position:relative;
-  left:0;
-  top:0;
-  width:40%;
-  line-height: 0;
-}
-
-.area:nth-child(2n) figure{
-  left:50%;
-}
-
-.area .box{
-  position:absolute;
-  top:40%;
-  left:30%;
-  background:#fff;
-  padding:30px;
-  box-shadow: 0 0 40px rgba(0,0,0,0.1);
-}
-
-.area:nth-child(2n) .box{
-  left:inherit;
-  right:30%;
-}
 
 a { text-decoration: none; }
 
