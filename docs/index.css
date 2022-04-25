@@ -82,13 +82,13 @@ div > img{
 
 
 @media screen and (max-width: 768px) {
-  html{
-      font-size:10px;
-   }
+  article > div {
+    font-size:10px;
+}
 }
 
 @media screen and (max-width: 480px) {
-  html{
-      font-size:10px;
-   }
+  article > div {
+    font-size:10px;
+}
 }
