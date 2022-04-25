@@ -81,14 +81,4 @@ div > img{
 } 
 
 
-@media screen and (max-width: 768px) {
-  article > div {
-    font-size:10px;
-}
-}
 
-@media screen and (max-width: 480px) {
-  article > div {
-    font-size:10px;
-}
-}
