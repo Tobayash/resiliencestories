@@ -79,3 +79,16 @@ div > img{
     border:0;
     vertical-align:bottom;
 } 
+
+
+@media screen and (max-width: 768px) {
+  html{
+      font-size:10px;
+   }
+}
+
+@media screen and (max-width: 480px) {
+  html{
+      font-size:10px;
+   }
+}
